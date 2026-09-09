@@ -12,19 +12,21 @@
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Jia-Yadav">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Jia-Yadav&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -70,13 +72,12 @@ And honestly?
 | Technology | Current Focus |
 |:---:|:---|
 | 🌐 **HTML** | Building the structure of websites |
-| 🎨 **CSS** | Making interfaces clean and interactive |
+| 🎨 **CSS** | Creating clean and interactive interfaces |
 | ⚙️ **C** | Programming fundamentals & problem solving |
 | ☕ **Java** | Object-oriented programming & application logic |
-| 🔧 **Git & GitHub** | Version control & collaborative development |
-| 🧩 **Problem Solving** | Learning to think before blindly writing code |
+| 🔧 **Git & GitHub** | Version control & project management |
+| 🧩 **Problem Solving** | Learning how to break complex problems into smaller ones |
 
 > **Learning status:** `Always in progress...`
 
----
 
